@@ -1,4 +1,42 @@
-{% for key,value in form_data.items() %}
-<h2> {{key + "yes"}} no</h2>
-<p> {{value}}</p>
-{% endfor %}
+{% if info.use_characteristics == '1' %}
+  <p>&lt;id>{{info.characteristics.article}}</id>/n/t
+<% else %}
+  <p>&lt;id>{{info.characteristics.article}}</id>/n/t
+{% elseif %}
+{% if info.use_characteristics == '1' %}
+  <p style="margin-left: 50px;">&lt;available>{}</available>/n/t
+<% else %}
+  <p style="margin-left: 50px;">&lt;available>{}</available>/n/t
+{% elseif %}
+
+  <p style="margin-left: 50px;">&lt;name>{{info.title + ' ' +  info.characteristics.title}}</name>/n/t
+  <p style="margin-left: 50px;">&lt;url></url>/n/t
+  <p style="margin-left: 50px;">&lt;picture></picture>/n/t
+{% if prices.price_type == 'Розница Москва МП' %}
+  <p style="margin-left: 50px;">&lt;price>{{prices.price}}</price>/n/t
+<% else %}
+  <p style="margin-left: 50px;">&lt;price>{}</price>/n/t
+{% elseif %}
+  <p style="margin-left: 50px;">&lt;currencyId>RUB</currencyId>/n/t
+  <p style="margin-left: 50px;">&lt;model>{{info.properties[9].values.value}}</model>/n/t
+  <p style="margin-left: 50px;">&lt;vendor>{{info.assignments.trademark.article_title}}</vendor>/n/t
+{% if info.use_characteristics == '1' %}
+  <p style="margin-left: 50px;">&lt;vendorCode>{}</vendorCode>/n/t
+<% else %}
+  <p style="margin-left: 50px;">&lt;vendorCode>{}</vendorCode>
+{% elseif %}
+  <p style="margin-left: 50px;">&lt;description>{{info.description + '/nДля сборки комплекта Вам дополнительно необходимо приобрести :'}}</description>/n/t
+  <p style="margin-left: 50px;">&lt;video>{}</video>/n/t
+  <p style="margin-left: 50px;">&lt;categoryId></categoryId>/n/t
+  <p style="margin-left: 50px;">&lt;market_category></market_category>/n/t
+  <p style="margin-left: 50px;">&lt;store>TRUE</store>/n/t
+  <p style="margin-left: 50px;">&lt;pickup>FALSE</pickup>/n/t
+  <p style="margin-left: 50px;">&lt;delivery>TRUE</delivery>/n/t
+  <p style="margin-left: 50px;">&lt;oldprice>{}</oldprice>/n/t
+  <p style="margin-left: 50px;">&lt;sales_notes></sales_notes>/n/t
+  <p style="margin-left: 50px;">&lt;manufacturer_warranty>TRUE</manufacturer_warranty>/n/t
+  <p style="margin-left: 50px;">&lt;country_of_origin>РОССИЯ</country_of_origin>/n/t
+  <p style="margin-left: 50px;">&lt;adult>FALSE</adult>/n/t
+  <p style="margin-left: 50px;">&lt;age>-</age>/n/t
+  <p style="margin-left: 50px;">&lt;downloadable>TRUE</downloadable>/n/t
+  <p style="margin-left: 50px;">&lt;param>{}</param>/n/t
