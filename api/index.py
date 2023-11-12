@@ -16,5 +16,10 @@ def data():
            placeholders.append(info.characteristics.article)
         else:
            placeholders.append(info.code)
+        if stock.stock - stock.stock_reserved == 0:
+           placeholders.append('FALSE')
+        else:
+           placeholders.append('TRUE')
+        placeholders.append(info.title + ' ' +  info.characteristics.title)
         
         return render_template('data.html',form_data = form_data)
