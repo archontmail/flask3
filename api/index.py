@@ -21,5 +21,17 @@ def data():
         else:
            placeholders.append('TRUE')
         placeholders.append(info.title + ' ' +  info.characteristics.title)
-        
+        placeholders.append(images)
+        if prices.price_type:
+           placeholders.append(prices.price)
+        else:
+           placeholders.append('')
+        placeholders.append(info.properties[9].values.value)
+        placeholders.append(info.assignments.trademark.article_title)
+        if info.use_characteristics == '1':
+           placeholders.append(info.characteristics.article)
+        else:
+           placeholders.append(info.code)
+        placeholders.append(info.description + '/nДля сборки комплекта Вам дополнительно необходимо приобрести :')
+        placeholders.append(assignments.videos)
         return render_template('data.html',form_data = form_data)
