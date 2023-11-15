@@ -1,0 +1,1280 @@
+{
+  "appName": {
+    "message": "SafePal Extension Wallet",
+    "description": "The name of the application"
+  },
+  "appDescription": {
+    "message": "Managing Your Assets Just Got Easier.",
+    "description": "The description of the application"
+  },
+  "Send": {
+    "message": "Send"
+  },
+  "Swap": {
+    "message": "Swap"
+  },
+  "View__Mnemonic": {
+    "message": "View Mnemonic Phrase"
+  },
+  "Copied": {
+    "message": "Copied"
+  },
+  "WalletManagement": {
+    "message": "Wallet Management"
+  },
+  "ChainManagement": {
+    "message": "Chain Management"
+  },
+  "ConnectedDApps": {
+    "message": "Connected DApps"
+  },
+  "Settings": {
+    "message": "Settings"
+  },
+  "Mnemonic": {
+    "message": "Mnemonic"
+  },
+  "Keep__at__least__one__address__visible": {
+    "message": "Keep at least one wallet visible"
+  },
+  "Delete__wallet": {
+    "message": "Delete Wallet"
+  },
+  "incorrect__password": {
+    "message": "Incorrect password"
+  },
+  "Password": {
+    "message": "Password"
+  },
+  "Unlock": {
+    "message": "Unlock"
+  },
+  "Get__Started": {
+    "message": "Get Started"
+  },
+  "Successfully__created": {
+    "message": "Successfully created"
+  },
+  "Please__input__address": {
+    "message": "Please input address"
+  },
+  "Address": {
+    "message": "Address"
+  },
+  "Successfully__imported": {
+    "message": "Successfully imported"
+  },
+  "Not__a__valid__mnemonic": {
+    "message": "Not a valid mnemonic"
+  },
+  "Set__a__password": {
+    "message": "Set a password"
+  },
+  "Two__inputs__do__not__match": {
+    "message": "Two inputs do not match"
+  },
+  "Disable": {
+    "message": "Disable"
+  },
+  "Cancel": {
+    "message": "Cancel"
+  },
+  "At__least__one__enabled__chain__is__required": {
+    "message": "Please enable at least one chain"
+  },
+  "Chain__ID": {
+    "message": "Chain ID"
+  },
+  "Enable__Chains": {
+    "message": "Enable Chains"
+  },
+  "enableChainContent": {
+    "message": "By enabling a chain, you’ll be able to make transactions on it."
+  },
+  "switchChainDesc": {
+    "message": "This site will be connected to {{name}} for your next visit."
+  },
+  "Change": {
+    "message": "Change",
+    "description": "Switch chain confirm button text"
+  },
+  "Switch__a__Chain": {
+    "message": "Switch Chain"
+  },
+  "Enable": {
+    "message": "Enable"
+  },
+  "Enable__a__Chain": {
+    "message": "Enable a chain"
+  },
+  "OK": {
+    "message": "OK"
+  },
+  "Connect": {
+    "message": "Connect",
+    "description": "Website connect confirm button text"
+  },
+  "Confirm": {
+    "message": "Confirm"
+  },
+  "Sign": {
+    "message": "Sign"
+  },
+  "Continue": {
+    "message": "Continue"
+  },
+  "Reset": {
+    "message": "Reset"
+  },
+  "Error": {
+    "message": "Error"
+  },
+  "Approve": {
+    "message": "Approve",
+    "description": "Approve token tx title"
+  },
+  "Standard": {
+    "message": "Standard"
+  },
+  "Enter__Password": {
+    "message": "Enter Password"
+  },
+  "View": {
+    "message": "View"
+  },
+  "Languages": {
+    "message": "Language"
+  },
+  "Switch__language": {
+    "message": "Switch Language"
+  },
+  "Next": {
+    "message": "Next"
+  },
+  "GasLimitMinimumValueAlert": {
+    "message": "Gas limit should be at least 21,000"
+  },
+  "GasLimitEmptyAlert": {
+    "message": "Please input gas limit"
+  },
+  "RecommendGasLimitTip": {
+    "message": "Est. {{est}}. Current {{current}}x, recommend "
+  },
+  "Advanced__Settings": {
+    "message": "Advanced Settings"
+  },
+  "Feedback": {
+    "message": "Give Us Feedback"
+  },
+  "GasLimit": {
+    "message": "Gas Limit"
+  },
+  "Amount": {
+    "message": "Amount"
+  },
+  "Edit": {
+    "message": "Edit"
+  },
+  "you__need__to__unlock__wallet__first": {
+    "message": "You need to unlock wallet first!"
+  },
+  "mnemonic__phrase__is__invalid": {
+    "message": "Mnemonic phrase is invalid."
+  },
+  "duplicateAccount": {
+    "message": "The wallet already exists."
+  },
+  "Gas__price__too__low": {
+    "message": "Gas price too low"
+  },
+  "Connection__failed": {
+    "message": "Connection failed"
+  },
+  "Modify__only__when__necessary": {
+    "message": "Modify only when necessary"
+  },
+  "From": {
+    "message": "From"
+  },
+  "To": {
+    "message": "To"
+  },
+  "Enter__the__address": {
+    "message": "Enter address"
+  },
+  "Balance": {
+    "message": "Balance"
+  },
+  "Contract__Address": {
+    "message": "Contract Address"
+  },
+  "Insufficient__balance": {
+    "message": "Insufficient balance"
+  },
+  "Proceed": {
+    "message": "Proceed"
+  },
+  "Disconnect": {
+    "message": "Disconnect"
+  },
+  "CreatePasswordDesc":{
+    "message": "The password is used to unlock wallet, sign transactions or smart contracts and access mnemonic phrase.Remember it tightly and do not give it to anyone."
+  },
+  "CreatePasswordTip":{
+    "message": "SafePal does not store or access your password. Please remember it tightly and do not give it to anyone."
+  },
+  "Copy__Address":{
+    "message": "Copy Address"
+  },
+  "Time": {
+    "message": "Time"
+  },
+  "Type": {
+    "message": "Type"
+  },
+  "Nonce": {
+    "message": "Nonce"
+  },
+  "Height": {
+    "message": "Height"
+  },
+  "TxID": {
+    "message": "TxID"
+  },
+  "Status": {
+    "message": "Status"
+  },
+  "Gas__Fee": {
+    "message": "Gas Fee"
+  },
+  "Mnemonic__phrase0": {
+    "message": "Generate Mnemonic Phrase"
+  },
+  "Mnemonic__phrase1": {
+    "message": "Mnemonic phrase is the master key to your wallet. It can be used to recover your wallet on any compatible device. Those who hold it can take full control of the wallet. So do not give it to anyone. "
+  },
+  "Mnemonic__phrase2": {
+    "message": "SafePal will never access, store or ask for your mnemonic phrase, hence we cannot retrieve a mnemonic phrase once it is lost. Please keep it secure and offline (such as writing it down on a piece of paper or keeping it in <0>SafePal Cypher</0>). Do not screenshot or copy it to the clipboard."
+  },
+  "Mnemonic__phrase3": {
+    "message": "Learn more about how to keep your mnemonic phrase safe <0>from here</0>"
+  },
+  "What__is__Seed__Phrase": {
+    "message": "What is Mnemonic Phrase?"
+  },
+  "Generate": {
+    "message": "Generate"
+  },
+  "YourWalletReady1": {
+    "message": "Your wallet is ready for use!"
+  },
+  "YourWalletReady2": {
+    "message": "Now please name your new wallet"
+  },
+  "Blockchain": {
+    "message": "Blockchain"
+  },
+  "Coin":{
+    "message": "Coin"
+  },
+  "Recent": {
+    "message": "Recent"
+  },
+  "No__record__yet": {
+    "message": "No record yet"
+  },
+  "Scan__QR__code__with": {
+    "message": "Scan QR code with SafePal APP {{version}} or above."
+  },
+  "Do__not__have__SafePal__APP": {
+    "message": "Don’t have a SafePal App?"
+  },
+  "createMnemonicsText":{
+    "message": "Write down the mnemonic phrase in order. Do not screenshot or send the phrase to others."
+  },
+  "Download__it": {
+    "message": "Download one here"
+  },
+  "Seed__Phrase": {
+    "message": "Mnemonic Phrase"
+  },
+  "MEMO": {
+    "message": "MEMO"
+  },
+  "AddImport__Wallet": {
+    "message": "Add/Import Wallet"
+  },
+  "Native": {
+    "message": "Native"
+  },
+  "Connected": {
+    "message": "Connected"
+  },
+  "Available__balance": {
+    "message": "Available Balance"
+  },
+  "USD": {
+    "message": "USD"
+  },
+  "No__response__on__your__phone": {
+    "message": "No response from your SafePal App"
+  },
+  "Updating__wallet__information__from__SafePal__APP": {
+    "message": "Updating wallet information from SafePal APP"
+  },
+  "Please__confirm__on__your__phone": {
+    "message": "Please confirm on your phone"
+  },
+  "Target__wallet__not__found__in__this__phone": {
+    "message": "Target wallet is not found from the phone"
+  },
+  "Enter__a__wallet__name": {
+    "message": "Enter wallet name (1-20 characters)"
+  },
+  "Network": {
+    "message": "Network"
+  },
+  "disableChainAlert": {
+    "message": "Once disabled, the DApps and tokens from this chain will be removed from the wallet."
+  },
+  "Wallet__name__should": {
+    "message": "The wallet name should be between 1-20 characters."
+  },
+  "ImportMnemonicsLabel": {
+    "message": "Enter your mnemonic phrase to import the wallet"
+  },
+  "Click__the__words": {
+    "message": "Click the words in the correct order"
+  },
+  "ClickWordError":{
+    "message": "This is a wrong word. Please try again."
+  },
+  "AddWallet":{
+    "message": "Add Wallet"
+  },
+  "ConfirmSeedPhrase":{
+    "message": "Create Wallet"
+  },
+  "connectSiteTrust":{
+    "message": "Only connect your wallet with the sites that you trust."
+  },
+  "Forget__password":{
+    "message": "Forgot password"
+  },
+  "Reset__your__wallet":{
+    "message": "Reset here"
+  },
+  "ResetWalletTitle":{
+    "message": "Read carefully before you start"
+  },
+  "ResetWalletDesc1":{
+    "message": "By resetting the extension, all of the existing wallets in it will be removed. So firstly make sure you have backed up the mnemonic phrase for these wallets."
+  },
+  "ResetWalletDesc2":{
+    "message": "This action only removes the wallets from this extension. It will not remove the wallets from the blockchains. You can access the wallets on any compatible devices so long as you have the mnemonic phrase backup."
+  },
+  "ResetBtn":{
+    "message":"Understood and Reset"
+  },
+  "Enable__multi__addresses":{
+    "message": "Enable multiple addresses"
+  },
+  "ImportMnemonicsTip__phrase0":{
+    "message": "Important! Read the instructions carefully before you start:"
+  },
+  "ImportMnemonicsTip__phrase1":{
+    "message": "• Do not copy and paste your mnemonic phrase here to avoid malicious attacks"
+  },
+  "ImportMnemonicsTip__phrase2":{
+    "message": "• Before you click next, make sure you are in a private environment with no cameras or people around you"
+  },
+  "ImportMnemonicsTip__phrase3":{
+    "message": "• After the wallet recovery, keep your mnemonic phrase in security locations"
+  },
+  "Import__Wallet": {
+    "message": "Import Wallet"
+  },
+  "Import__Wallet__From": {
+    "message": "Import Wallet From"
+  },
+  "CreatePasswordInput1":{
+    "message": "Enter password"
+  },
+  "CreatePasswordInput2":{
+   "message": "Enter password again"
+  },
+  "CreatePasswordErr1":{
+    "message": "Must contain at least 8 characters"
+  },
+  "CreatePasswordErr2":{
+    "message": "Must contain letters and numbers"
+  },
+  "Verify":{
+    "message": "Verify"
+  },
+  "What__if__I__forgot__my__password":{
+   "message": "What if I forgot my password?"
+  },
+  "ViewExplorer":{
+   "message": "View my address on blockchain explorer"
+  },
+  "addWalletOk":{
+   "message": "The wallet is added successfully"
+  },
+  "delWalletOk":{
+   "message": "The wallet is removed"
+  },
+  "updateTokenOk":{
+   "message": "The token list is updated"
+  },
+  "signOk":{
+   "message": "The transaction is submitted for on-chain confirmation"
+  },
+  "disconnectedOk":{
+   "message": "The device is disconnected"
+  },
+  "updateWalletInfoOk":{
+   "message": "The wallet list is updated"
+  },
+  "lockOk":{
+   "message": "The wallet is locked"
+  },
+  "resetOk":{
+   "message": "The wallet is reset"
+  },
+  "same__address__err":{
+    "message": "You can't transfer to the same address on the {{chain}} network."
+  },
+  "Invalid__address":{
+    "message": "Invalid address"
+  },
+  "filteredEmpty1":{
+    "message": "Can not found coin ‘{{token}}’"
+  },
+  "filteredEmpty2":{
+    "message": "Check your filter or add ‘{{token}}’"
+  },
+  "addToken":{
+    "message": "Add ‘{{token}}’"
+  },
+  "Back__to__Top":{
+    "message": "Back to Top"
+  },
+  "NetworkError":{
+    "message": "The network is disconnected. Please check your network settings first."
+  },
+  "ReceiveTip1":{
+    "message": "Please ensure that the receive address supports the {{chain}} network."
+  },
+  "ReceiveTip2":{
+    "message": "This address can only accept assets on {{chain}} network. Sending any other types of tokens to this address will result in permanent loss."
+  },
+  "Welcome__Back":{
+    "message": "Welcome Back!"
+  },
+  "welcomeTip":{
+    "message": "Managing Your Crypto Just Got Easier"
+  },
+  "welcome1":{
+    "message": "Support both EVM and non-EVM compatible chains including Bitcoin, Ethereum, Binance Smart Chain, Tron, Solana, Avalanche and more"
+  },
+  "welcome2":{
+    "message": "Built-in with cross-chain Swap and Bridge services"
+  },
+  "welcome3":{
+    "message": "Stay connected to DApps on different chains simultaneously"
+  },
+  "welcome4":{
+    "message": "Level up asset security by connecting to your SafePal App or S1 Hardware Wallet"
+  },
+  "moreAddressesTip":{
+    "message": "One wallet can generate multiple receiving addresses under its public key. By enabling this feature, the wallet will automatically generate a new address after every transaction. This is a security feature to protect your privacy and prevent third-parties from tracking your transactions on the blockchain."
+  },
+  "Import__from":{
+    "message": "Import from"
+  },  
+  "SafePal__APP":{
+    "message": "SafePal App"
+  },  
+  "SetDefaultWallet":{
+    "message": "Set SafePal as default extension wallet"
+  },  
+  "SafePalAddAddress":{
+    "message": "An address generation request has been sent to your SafePal App. Open the SafePal app to complete the steps."
+  },
+  "UseBlockchainDappsTip":{
+    "message": "Please add {{chain}} network to your wallet first"
+  },
+  "UseBlockchainDappsTip2":{
+    "message": "This wallet is imported by private kay and only supports {{chain}} blockchain. To use {{dappChain}} blockchain Dapps or tokens, please switch to other wallets."
+  },
+  "Hide__Wallet":{
+    "message": "Hide Wallet"
+  },
+  "feeSmallerTip":{
+    "message": "Current fee is smaller than the recommended fee,this could lead to transaction failure or longer pending period. Confirm to proceed?"
+  },
+  "inputMax":{
+    "message": "If you select “MAX” transfer amount, the actual amount sent will be calculated as your balance minus gas fees in the next step."
+  },
+  "tipsUtxoTxNoInput":{
+    "message": "There could be un-confirmed transaction on the blockchain. Please stay connected and try again later."
+  },
+  "tronSendFeeHoldHind":{
+    "message": "Please make sure you have an amount of TRX."
+  },
+  "insufficientTronGasFee":{
+    "message": "This transaction needs at least 10 TRX to pay for the miner fee."
+  },
+  "Insufficient__funds__lock":{
+    "message": "Insufficient funds. Your account is required to lock {{amount}} on the {{chain}} network. "
+  },
+  "SearchTokensPlaceholder1":{
+    "message": "Search coins"
+  },
+  "SearchTokensPlaceholder2":{
+    "message": "Search name or contract address"
+  },
+  "invitationCodeTip":{
+    "message": "Send invitation code to your friends and enjoy the seamless experience together!"
+  },
+  "Reconnect":{
+    "message": "Reconnect"
+  },
+  "Resend":{
+    "message": "Resend"
+  },
+  "ReconnectTip":{
+    "message": "If resending the transaction does not work, please reconnect your SafePal App"
+  },
+  "ResendTip":{
+    "message": "Resend the transaction to your SafePal App"
+  },
+  "Pay":{
+    "message": "Pay"
+  },
+  "ReceiveEstimate":{
+    "message": "Receive (Estimate)"
+  },
+  "SwapTip":{
+    "message": "Please note that due to exchange rate fluctuations, the amount you receive may differ from the estimated receive amount."
+  },
+  "Slippage__Tolerance":{
+    "message": "Slippage Tolerance"
+  },
+  "SlippageTip":{
+    "message": "Your transaction will not be processed if the price changes unfavorable by more than this percentage."
+  },
+  "Swap__History":{
+    "message": "Swap History"
+  },
+  "Load__More":{
+    "message": "Load More"
+  },
+  "Ongoing":{
+    "message": "Ongoing"
+  },
+  "Failed":{
+    "message": "Failed"
+  },
+  "Success":{
+    "message": "Success"
+  },
+  "Order__Detail":{
+    "message": "Order Detail"
+  },
+  "Order__ID":{
+    "message": "Order ID"
+  },
+  "Order__Time":{
+    "message": "Order Time"
+  },
+  "Receive__Address":{
+    "message": "Receive Address"
+  },
+  "Pay__Transaction":{
+    "message": "Pay Transaction"
+  },
+  "SwapOrderDetailTip":{
+    "message":"This order is pending due to exceeded slippage."
+  },
+  "Order__Price":{
+    "message":"Order Price"
+  },
+  "Swap__completed":{
+    "message":"Swap completed"
+  },
+  "Exchange":{
+    "message":"Exchange"
+  },
+  "Fix":{
+    "message":"Fix"
+  },
+  "Submit__a__request":{
+    "message":"Submit a request"
+  },
+  "Need__help":{
+    "message":"Need help? "
+  },
+  "Network__Fee":{
+    "message":"Network Fee"
+  },
+  "Market__Price":{
+    "message":"Market Price"
+  },
+  "Next__Step":{
+    "message":"Next Step"
+  },
+  "exchangeMaximum":{
+    "message":"The exchange maximum is {{amount}} {{symbol}}."
+  },
+  "exchangeMinimum":{
+    "message":"The exchange minimum amount is {{amount}} {{symbol}}."
+  },
+  "InsufficientNetworkFee":{
+    "message":"You need {{coin}} as the network fee to transfer the {{token}} token. Please deposit sufficient {{coin}} in the current wallet first."
+  },
+  "Refunding":{
+    "message":"Refunding"
+  },
+  "Refund__completed":{
+    "message":"Refund completed"
+  },
+  "Refund__TX__ID":{
+    "message":"Refund TX ID"
+  },
+  "useProviderTip":{
+    "message":"Click to switch between SafePal and MetaMask"
+  },
+  "useSafePal":{
+    "message":"Refresh the website to enable the SafePal wallet provider."
+  },
+  "useMetaMask":{
+    "message":"Refresh the website to enable the Metamask wallet provider."
+  },
+  "createTip":{
+    "message":"Add a Wallet to Start Your Crypto Journey"
+  },
+  "createMnemonicsTitle1":{
+    "message":"Backup Mnemonic Phrase"
+  },
+  "createMnemonicsTitle2":{
+    "message":"Verify Your Backup"
+  },
+  "Manage__Coins":{
+    "message":"Manage Coins"
+  },
+  "ApproveTip":{
+    "message":"By signing this message you give authorization to this smart contract to move or spend your funds, proceed at you own risk! Only authorize for the DApp you trust."
+  },
+  "Networks":{
+    "message":"Networks"
+  },
+  "Search":{
+    "message":"Search"
+  },
+  "Review":{
+    "message":"Review on {{name}}"
+  },
+  "Help__Center":{
+    "message":"Help Center"
+  },
+  "Support":{
+    "message":"Support"
+  },
+  "Community":{
+    "message":"Community"
+  },
+  "About":{
+    "message":"About"
+  },
+  "swapNotSupportPrivate":{
+    "message":"Swap does not support private key wallets."
+  },
+  "ByValue":{
+    "message":"By value"
+  },
+  "ByAmount":{
+    "message":"By amount"
+  },
+  "ByAlphabet":{
+    "message":"By alphabet"
+  },
+  "CoinManagement":{
+    "message":"Coin Management"
+  },
+  "Asset":{
+    "message":"Asset" 
+  },
+  "ConnectedTitle":{
+    "message":"Connecting to SafePal App" 
+  },
+  "WaitingTitle":{
+    "message":"Confirm on your SafePal App" 
+  },
+  "RejectedTitle":{
+    "message":"Transaction is cancelled" 
+  },
+  "SubmittedTitle":{
+    "message":"Transaction is broadcast" 
+  },
+  "Transaction__Detail":{
+    "message":"Transaction Detail" 
+  },
+  "User__Guide":{
+    "message":"User Guide" 
+  },
+  "Enter__your__password": {
+    "message": "Enter your password"
+  },
+  "Please__Enter__Password": {
+    "message": "Please Enter Password"
+  },
+  "mnemonicsVisibleTip": {
+    "message": "SafePal does not store or access your mnemonic phrase, and losing the phrase will lead to permanent asset loss. Do not screenshot or take a picture of your phrase. Never share it to anyone and only store it offline on a piece of paper or"
+  },
+  "SafePal__Cypher": {
+    "message": "SafePal Cypher"
+  },
+  "Language":{
+    "message": "Language"
+  },
+  "MyWallets": {
+    "message": "My Wallets"
+  },
+  "Create__Wallet": {
+    "message": "Create Wallet"
+  },
+  "Sort": {
+    "message": "Sort"
+  },
+  "Sorting": {
+    "message": "Sorting"
+  },
+  "Words": {
+    "message": "Words"
+  },
+  "In__your__wallet": {
+    "message": "In your wallet"
+  },
+  "Backup": {
+    "message": "Backup"
+  },
+  "Enter__receive__address": {
+    "message": "Enter receive address"
+  },
+  "Receive": {
+    "message": "Receive"
+  },
+  "Pending": {
+    "message": "Pending"
+  },
+  "All": {
+    "message": "All"
+  },
+  "Transaction__Data":{
+   "message": "Transaction Data"
+  },
+  "Optiooal": {
+    "message": "Optiooal"
+  },
+  "Create__your__order": {
+    "message": "Create your order"
+  },
+  "Receive__transaction": {
+    "message": "Receive transaction"
+  },
+  "Transaction": {
+    "message": "Transaction"
+  },
+  "Select__Token": {
+    "message": "Select Token"
+  },
+  "Slippage": {
+    "message": "Slippage"
+  },
+  "Approve__To": {
+    "message": "Approve To"
+  },
+  "Search__NFTs": {
+    "message": "Search NFTs"
+  },
+  "Manage__NFTs": {
+    "message": "Manage NFTs"
+  },
+  "View__As": {
+    "message": "View As"
+  },
+  "List": {
+    "message": "List"
+  },
+  "Gird": {
+    "message": "Grid"
+  },
+  "Search__collections": {
+    "message": "Search collections"
+  },
+  "Floor": {
+    "message": "Floor"
+  },
+  "Vol": {
+    "message": "Vol"
+  },
+  "Items": {
+    "message": "Items"
+  },
+  "Owner": {
+    "message": "Owner"
+  },
+  "Properties": {
+    "message": "Properties"
+  },
+  "Owned__by__Me": {
+    "message": "Owned by Me"
+  },
+  "Collection": {
+    "message": "Collection"
+  },
+  "Description": {
+    "message": "Description"
+  },
+  "Basic__Info": {
+    "message": "Basic Info"
+  },
+  "Token__Id": {
+    "message": "Token Id"
+  },
+  "Read__More": {
+    "message": "Read More"
+  },
+  "Less": {
+    "message": "Less"
+  },
+  "Low": {
+    "message": "Less"
+  },
+  "High": {
+    "message": "High"
+  },
+  "Custom": {
+    "message": "Custom"
+  },
+  "Confirm__on__your__mobile__App":{
+    "message": "Confirm on your mobile App"
+  },
+  "No__response__from__your__mobile__App": {
+    "message": "No response from your mobile App"
+  },
+  "Connecting__to__mobile__App": {
+    "message": "Connecting to mobile App"
+  },
+  "Others":{
+    "message": "Others"
+  },
+  "ReconnectTipWalletConnect": {
+    "message": "If resending the transaction does not work, please reconnect your mobile App"
+  },
+  "ResendTipWalletConnect": {
+    "message": "Resend the transaction to your mobile App"
+  },
+  "Add__Custom__Network": {
+    "message": "Add Custom Network"
+  },
+  "AddCustomNetworkTip": {
+    "message": "A malicious network provider could fake blockchain data and pose potential risks to your assets. Only add custom networks you trust. If you have any doubt, contact the project team to get the correct information for this page."
+  },
+  "AddCustomNetworkErr":{
+    "message": "Chain ID {{chainId}} already exists, please do not add this chain repeatedly."
+  },
+  "Register":{
+    "message":"Register"
+  },
+  "Private__Key": {
+    "message": "Private Key"
+  },
+  "CheckUrlText": {
+    "message": "This domain is currently on the SafePal domain warning list. Based on the information we have, SafePal believes this domain could compromise your wallet security, thus we have restricted the access to this site."
+  },
+  "CheckSignText": {
+    "message": "This contract is currently on the SafePal warning list. Based on the information we have, SafePal believes this contract could compromise your wallet security, thus we have restricted the approval to this contract."
+  },
+  "CheckUrlTip": {
+    "message": "Please note that our warning list is on a voluntary basis. It may be inaccurate or incomplete. Please be careful, do more research and do not connect your wallet to suspicious DApps."
+  },
+  "Enter__your__private__key__to__import__the__wallet": {
+    "message": "Enter your private key to import the wallet"
+  },
+  "Input__your__private__key": {
+    "message": "Input your private key"
+  },
+  "Security__Suffix": {
+    "message": "Security Suffix"
+  },
+  "Path__Index": {
+    "message": "Path Index"
+  },
+  "Approval": {
+    "message": "Approval"
+  },
+  "Not__supported__this__trading__pair": {
+    "message": "Not supported this trading pair"
+  },
+  "Approval__transaction__pending": {
+    "message": "Approval pending"
+  },
+  "Best__Rate": {
+    "message": "Best Rate"
+  },
+  "Rate": {
+    "message": "Rate"
+  },
+  "Finding__the__best__quote": {
+    "message": "Finding the best quote"
+  },
+  "swapBTCErrTip": {
+    "message": "SafePal extension wallet does not support Binance provider, please download the SafePal App to use Binance provider."
+  },
+  "resetApprovalTip": {
+    "message": "The transaction amount for {{symbol}} exceeds your approved limit {{num}}. Please reset approval limits to continue."
+  },
+  "Withdraw__Fee": {
+    "message": "Withdraw Fee"
+  },
+  "swapIncludesTip1": {
+    "message": "Includes a {{fee}} SafePal fee"
+  },
+  "swapIncludesTip2": {
+    "message": "We find the best price from the top liquidity sources, every time. A fee of {{fee}}% is automatically factored into this quote."
+  },
+  "swapIncludesTip3": {
+    "message": "Includes a {{withdrawFee}} withdraw fee"
+  },
+  "swapIncludesTip4": {
+    "message": "Withdraw fee is charged by the provider."
+  },
+  "swapApprovalTip": {
+    "message": "You must give the {{provider}} smart contracts permission to use your {{symbol}}."
+  },
+  "Provider": {
+    "message": "Provider"
+  },
+  "Buy": {
+    "message": "Buy"
+  },
+  "BuyTip": {
+    "message": "Buy with Credit/Debit Card, ACH, Apple Pay..."
+  },
+  "Buy__Crypto": {
+    "message": "Buy Crypto"
+  },
+  "Continue__To": {
+    "message": "Continue To"
+  },
+  "BuyInputErrTip": {
+    "message": "The purchase amount should be between $50 and $20,000"
+  },
+  "Buy__History": {
+    "message": "History"
+  },
+  "Add__More__Network": {
+    "message": "Add More Network"
+  },
+  "Pool": {
+    "message": "Pool"
+  },
+  "Reward": {
+    "message": "Reward"
+  },
+  "Order__Limit": {
+    "message": "Order Limit"
+  },
+  "Gas__Tracker": {
+    "message": "Gas Tracker"
+  },
+  "Estimated__Cost__of__Transaction__Actions": {
+    "message": "Estimated Cost of Transaction Actions"
+  },
+  "Gas__Station__History": {
+    "message": "Gas Station History"
+  },
+  "Pay__for__Gas__with__Received__Coins": {
+    "message": "Pay for Gas with Received Coins"
+  },
+  "WithoutGasTip": {
+    "message": " Users who do not have gas coins in their wallets can pay gas fees with tokens at the gas station."
+  },
+  "Buy__Gas__without__Gas__Fee": {
+    "message": "Buy Gas without Gas Fee"
+  },
+  "Pay__network__fees__with": {
+    "message": "Pay network fees with"
+  },
+  "Buy__Gas": {
+    "message": "Buy Gas"
+  },
+  "Wallet__Details": {
+    "message": "Wallet Details"
+  },
+  "Imported__From": {
+    "message": "Imported From"
+  },
+  "Export__Mnemonic__Phrase": {
+    "message": "Export Mnemonic Phrase"
+  },
+  "Create__Account": {
+    "message": "Create Account"
+  },
+  "Remove__Wallet": {
+    "message": "Remove Wallet"
+  },
+  "Mnemonic__Phrase": {
+    "message": "Mnemonic Phrase"
+  },
+  "Currency": {
+    "message": "Currency"
+  },
+  "Network__name": {
+    "message": "Network name"
+  },
+  "New__RPC__network": {
+    "message": "New RPC network"
+  },
+  "Symbol": {
+    "message": "Symbol"
+  },
+  "Optional": {
+    "message": "Optional"
+  },
+  "Block__explorer__Url": {
+    "message": "Block explorer Url"
+  },
+  "httpRequired": {
+    "message": "URLs require the appropriate HTTP/HTTPS prefix."
+  },
+  "Supported": {
+    "message": "Supported"
+  },
+  "Approval__pending": {
+    "message": "Approval pending"
+  },
+  "Check__Approval": {
+    "message": "Check Approval"
+  },
+  "Approvals": {
+    "message": "Approvals"
+  },
+  "Congratulations": {
+    "message": "Congratulations"
+  },
+  "CongratulationsText": {
+    "message": "Your wallet has been created!"
+  },
+  "SetSafePalWallet": {
+    "message": "Set SafePal Wallet as default wallet when connecting to DApps."
+  },
+  "Set__as__default__wallet": {
+    "message": "Set as default wallet"
+  },
+  "ConnectDApps": {
+    "message": "Connect DApps"
+  },
+  "ConnectDAppsText1": {
+    "message": "Multiple ways to easily connect to DApps"
+  },
+  "ConnectDAppsText2": {
+    "message": "Choose one of this on the DApp’s website:"
+  },
+  "ConnectDAppsTip1": {
+    "message": "The SafePal Wallet icon"
+  },
+  "ConnectDAppsTip2": {
+    "message": "The ‘Injected’ or ‘Browser’ icon"
+  },
+  "ConnectDAppsTip3": {
+    "message": "Set SafePal wallet as default, then try other wallet’s icon"
+  },
+  "NoGasTip": {
+    "message": "You don't have enough {{name}} to cover network fees."
+  },
+  "NoGasBtnTip1": {
+    "message": "Support Credit/Debit Card, Apple Pay, PIX and more."
+  },
+  "NoGasBtnTip2": {
+    "message": "Buy with SFP or Stable coins."
+  },
+  "NoGasBtnTip3": {
+    "message": "Receive coins from other wallets or exchanges."
+  },
+  "Address__Book": {
+    "message": "Address Book"
+  },
+  "Add__More__Address": {
+    "message": "Add More Address"
+  },
+  "Delete__Contact": {
+    "message": "Delete Contact"
+  },
+  "SetSafePalWalletTip": {
+    "message": "Connect to all DApps that support MetaMask, just click the MetaMask icon and SafePal will respond."
+  },
+  "New__Updates": {
+    "message": "New Updates"
+  },
+  "noDappTip": {
+    "message": "You can try searching on dapp.com or dappradar.com. Beaware of scam DApps, only connect DApps you trusted."
+  },
+  "Buy2": {
+    "message": "Buy/Sell"
+  },
+  "Balance__Tips": {
+    "message": "Balance Tips"
+  },
+  "BalanceTipsXLM": {
+    "message": "The absolute minimum balance for an XLM account is 1XLM"
+  },
+  "Balance__Details": {
+    "message": "Balance Details"
+  },
+  "Wallet__Balance": {
+    "message": "Wallet Balance"
+  },
+  "Reserved__for__Storage": {
+    "message": "Reserved for Storage"
+  },
+  "Reserved__for__Storage__text": {
+    "message": "This is the minimum NEAR balance your account must maintain to remain active. This balance represents the storage space your account is using on the NEAR blockchain (with a small buffer), and will go up or down as you use more or less space."
+  },
+  "Reserved__for__Transactions": {
+    "message": "Reserved for Transactions"
+  },
+  "Reserved__for__Transactions__text": {
+    "message": "Up to {{num}} NEAR is reserved to cover the cost of transactions."
+  },
+  "Available__Balance__text": {
+    "message": "This is your spendable NEAR balance, and can be used or transferred immediately."
+  },
+  "Sell": {
+    "message": "Sell"
+  },
+  "Label": {
+    "message": "Label"
+  },
+  "AddContactText1": {
+    "message": "You don’t have any contact yet."
+  },
+  "AddContactText2": {
+    "message": "You can add contacts in ‘Settings’ - ‘Address Book’"
+  },
+  "Add__Contact": {
+    "message": "Add Contact"
+  },
+  "Tip": {
+    "message": "Tip"
+  },
+  "DOTTip1": {
+    "message": "On the Polkadot network, if you are sending funds out of an account, which will leave the remaining balance under {{amount}} {{symbol}}, the account will be deactivated and the funds reaped. To avoid losing your funds, please either keep the balance above {{amount}} {{symbol}}, or transfer all of the funds out of the wallet."
+  },
+  "DOTTip2": {
+    "message": "Due to the restriction of the destination address, this transfer must be more than {{amount}} {{symbol}}."
+  },
+  "EnterAddress2": {
+    "message": "Please enter address, Space ID, ARBID, ENS..."
+  },
+  "ConnectLedger1": {
+    "message": "Connect your Ledger device via USB"
+  },
+  "ConnectLedger2": {
+    "message": "After connecting the USB port, please unlock your ledger device and open Ethereum app."
+  },
+  "Select__Account": {
+    "message": "Select Account"
+  },
+  "Retry": {
+    "message": "Retry"
+  },
+  "ConnectLedgerErr1": {
+    "message": "Please ensure your hardware wallet is properly connected and unlocked."
+  },
+  "LedgerSignTip1": {
+    "message": "Please connect your Ledger device and open the Ethereum app to sign the transaction."
+  },
+  "LedgerSignBtn": {
+    "message": "Confirm in Your Hardware Wallet"
+  },
+  "ConnectLedger3": {
+    "message": "Imported Successfully"
+  },
+  "ConnectLedger4": {
+    "message": "Now you can use Ledger wallet on SafePal Extension"
+  },
+  "Close__This__Page": {
+    "message": "Close This Page"
+  },
+  "Learn__more": {
+    "message": "Learn more"
+  },
+  "LedgerUnlockError": {
+    "message": "Please unlock your device. "
+  },
+  "Add": {
+    "message": "Add"
+  },
+  "impactTip1": {
+    "message": "High price impact! More than {{scale}} drop!"
+  },
+  "impactTip2": {
+    "message": "The price impact is too high and it may lead to a loss of more than {{scale}} of your funds. Are you sure to swap?"
+  },
+  "Continue__Anyway": {
+    "message":"Continue Anyway"
+  },
+  "Got__It": {
+    "message": "Got It"
+  },
+  "BalanceTipsXRP":{
+    "message": "The XRP network requires a one-time fee of 10 XRP for account activation"
+  },
+  "xrpFristSendLimitTips":{
+   "message": "Based on XRP network rules, you need to send at least 10 XRP to activate the recipient's address."
+  },
+  "GasRecommend": {
+    "message": "Gas Price (Recommend: {{num}} Gwei)"
+  },
+  "HideSmallTransaction": {
+    "message": "Hide Small Transaction"
+  },
+  "HideSmallTransactionTip1": {
+    "message": "You can hide transactions with small amount to prevent ‘Zero Transfer Scam’."
+  },
+  "HideSmallTransactionTip2": {
+    "message": "Transaction amount not more than:"
+  },
+  "HideSmallTransactionTip3": {
+    "message": "This setting will be applied to all transaction lists of all the wallets and coins."
+  },
+  "Hidden__Records": {
+    "message": "Hidden Records"
+  },
+  "ViewHiddenTransaction": {
+    "message": "{{num}} transaction records have been hidden. View >"
+  },
+  "Copy__Private__Key": {
+    "message": "Copy Private Key"
+  },
+  "showPrivateTip": {
+    "message": "Never disclose this key. Anyone with your private keys can steal any assets held in your account."
+  },
+  "showPrivateTip1": {
+    "message": "1. Before copying the private key, ensure the security of the clipboard premission to avoid leakage caused by the clipboard being read by other software."
+  },
+  "showPrivateTip2": {
+    "message": "2. Please write down and save the private key correctly, and do not transmit or store it over the internet."
+  },
+  "Imported__Time": {
+    "message": "Imported Time"
+  },
+  "Export__Private__Key": {
+    "message": "Export Private Key"
+  }
+  
+}
